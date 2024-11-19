@@ -1,5 +1,6 @@
 ## Greeting👋, I'm Hex.
 
+``
 const Profile = {
   aboutme: {
     name: ["Hex", "Jnezyzn._"],
@@ -13,3 +14,4 @@ const Profile = {
 }
 
 console.log(Profile)
+``
