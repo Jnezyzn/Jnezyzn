@@ -1,16 +1,15 @@
-## Hi there 👋
+## Greeting👋, I'm Hex.
 
-<!--
-**Jnezyzn/Jnezyzn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+const Profile = {
+  aboutme: {
+    name: ["Hex", "Jnezyzn._"],
+    age: 16,
+    ability: ["lua", "java", "html", "python"] 
+  },
+  contact: {
+    youtube: "Jnezyzn._",
+    x: "@Jnezyzn_"
+  }
+}
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+console.log(Profile)
