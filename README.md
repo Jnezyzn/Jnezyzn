@@ -10,6 +10,7 @@ const Profile = {
   },
   contact: {
     youtube: "Jnezyzn._",
+    discord: "jnezyzn._"
     x: "@Jnezyzn_"
   }
 }
